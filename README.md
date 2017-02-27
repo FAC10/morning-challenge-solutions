@@ -14,6 +14,7 @@ All of your solutions in one place - use this to help you plan for FAC11
 
 [FizzBuzz](https://github.com/skibinska/fizzbuzz)
 + [Oli & Piotr](https://github.com/PiotrBerebecki/fizzbuzz)
++ [Lucy & Piotr](https://github.com/PiotrBerebecki/romanizer/blob/master/index.js)
 
 ## Week 3 - APIs
 
