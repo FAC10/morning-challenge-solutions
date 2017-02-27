@@ -12,6 +12,9 @@ All of your solutions in one place - use this to help you plan for FAC11
 
 ## Week 2 - testing
 
+[FizzBuzz](https://github.com/skibinska/fizzbuzz)
++ [Oli & Piotr](https://github.com/PiotrBerebecki/fizzbuzz)
+
 ## Week 3 - APIs
 
 ## Week 4 - Node 1
