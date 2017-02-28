@@ -15,6 +15,9 @@ All of your solutions in one place - use this to help you plan for FAC11
 [FizzBuzz](https://github.com/skibinska/fizzbuzz)
 + [Oli & Piotr](https://github.com/PiotrBerebecki/fizzbuzz)
 
+[Waterfall](https://github.com/RhodesPeter/waterfall-function-workshop)
++ [Maja & Piotr](https://gist.github.com/PiotrBerebecki/985206b67a6b750ba999de2255134cc7)
+
 ## Week 3 - APIs
 
 ## Week 4 - Node 1
