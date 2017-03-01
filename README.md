@@ -19,6 +19,9 @@ All of your solutions in one place - use this to help you plan for FAC11
 [Waterfall](https://github.com/RhodesPeter/waterfall-function-workshop)
 + [Maja & Piotr](https://gist.github.com/PiotrBerebecki/985206b67a6b750ba999de2255134cc7)
 
+[DOM manipulation](https://github.com/Jwhiles/DOM-manipulation-Challenge)
++ [Finn & Oli](https://github.com/finnhodgkin/DOM-manipulation-Challenge/blob/solutions/exercise/exercise.js)
+
 ## Week 3 - APIs
 
 ## Week 4 - Node 1
