@@ -24,6 +24,9 @@ All of your solutions in one place - use this to help you plan for FAC11
 
 ## Week 3 - APIs
 
+[GitHub API parallel function](https://github.com/emilyb7/parallel-challenge-github)
++ [Samatar & Alexis](https://github.com/Samatar26/parallel-challenge-github)
+
 ## Week 4 - Node 1
 
 ## Week 5 - Node 2
